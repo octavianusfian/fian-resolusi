@@ -1,4 +1,5 @@
 FIAN RESOLUSI
 - Belajar javascript lanjutan
 - Membuat website statis
--  
+- Belajar Rest Api
+- Belajar Fetch api
