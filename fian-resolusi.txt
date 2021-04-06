@@ -1,0 +1,4 @@
+FIAN RESOLUSI
+- Belajar javascript lanjutan
+- Membuat website statis
+-  
