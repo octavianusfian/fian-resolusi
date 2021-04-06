@@ -21,6 +21,8 @@ function cobaPromise(){
     });
 }
 
+// tes tes tes
+
 // const coba = cobaPromise();
 // coba
 //     .then(() => console.log(coba))
