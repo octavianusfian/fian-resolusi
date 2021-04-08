@@ -3,8 +3,7 @@ RENCANA KONTEN FIAN
 - Belajar Gitar
   * chord
   * strumming
-  * riffs
+  * belajar lagu
 - Belajar catur  
-- Beli ampi gitar
 - Main musik bareng
 - Belajar OOP
